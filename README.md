@@ -1,5 +1,5 @@
-- 👀 I’m interested in building IoT products that provide solutions for a sustainable environment
-- 🌱 I’m currently learning Data Science and Product Management
-- 💞️ I’m looking to collaborate on projects that can analyze sentiments on various platforms of the Internet
-- 📫 Drop me a mail @ himangshuchowdhury@gmail.com
-
+👀 Building rapid AI prototypes using vibe coding — focused on speed, intuition, and real-world experimentation
+⚙️ Exploring the intersection of AI + hardware, especially applied use-cases in IoT and embedded systems
+🌱 Currently diving deeper into applied AI domains — not just models, but where they actually create leverage
+💞️ Open to collaborating on projects that push AI beyond software — into physical systems and real-world constraints
+📫 Reach me at: himangshuchowdhury@gmail.com
